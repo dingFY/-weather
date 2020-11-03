@@ -1,0 +1,21 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/citychoose/citychoose",
+        "pages/setting/setting",
+        "pages/systeminfo/systeminfo"
+    ],
+    "window": {
+        "backgroundTextStyle": "dark",
+        "navigationBarBackgroundColor": "#000",
+        "navigationBarTitleText": "天气查询",
+        "navigationBarTextStyle": "white"
+    },
+    "permission": {
+        "scope.userLocation": {
+            "desc": "定位以获取当前位置天气信息"
+        }
+    },
+    "cloud": true,
+    "sitemapLocation": "sitemap.json" 
+}
