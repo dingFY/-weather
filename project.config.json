@@ -35,7 +35,7 @@
     "compileType": "miniprogram",
     "libVersion": "2.3.0",
     "appid": "wxe0261d41b72aed93",
-    "projectname": "quietweather-master",
+    "projectname": "weather",
     "simulatorType": "wechat",
     "simulatorPluginLibVersion": {},
     "cloudfunctionTemplateRoot": "cloudfunctionTemplate",
